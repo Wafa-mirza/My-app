@@ -1,0 +1,22 @@
+{
+  "name": "demoProject",
+  "version": "0.0.0",
+  "description": "just for test",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "wafa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
